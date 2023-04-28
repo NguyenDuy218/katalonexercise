@@ -6,12 +6,12 @@
    <elementGuidId>53847669-96e9-4095-8e39-49e830d1b02a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.arrow.waves-effect</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;menu&quot;]/div[1]/ul/li[3]/div/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='menu']/div/ul/li[3]/div/div/a[2]</value>
+         <key>CSS</key>
+         <value>a.arrow.waves-effect</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2abcd8f8-4423-4e50-a23d-796b656fe9eb</webElementGuid>
+      <webElementGuid>eeb78ff3-6da6-4a7a-b6ef-60debc6e3599</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>arrow waves-effect</value>
-      <webElementGuid>a1cc42fc-bad3-4e76-9c79-a83c28cb8631</webElementGuid>
+      <webElementGuid>ea46c970-cf56-4615-a749-7efdf205d7ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://phptravels.com/integrations</value>
-      <webElementGuid>1d1076ed-aa5d-4829-8ff5-dfb477f14834</webElementGuid>
+      <webElementGuid>d4998cd4-2899-474f-9375-e7e6ef406206</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Integrations</value>
-      <webElementGuid>aedc18ff-013a-432d-9efa-2b958275a9d8</webElementGuid>
+      <webElementGuid>0d0d7431-6c24-48ae-80fa-8d5825104197</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu&quot;)/div[@class=&quot;nav_left&quot;]/ul[1]/li[3]/div[@class=&quot;link&quot;]/div[@class=&quot;dropdown-content&quot;]/a[@class=&quot;arrow waves-effect&quot;]</value>
-      <webElementGuid>5b46596e-33bc-42b7-a6d5-41b78c52752d</webElementGuid>
+      <webElementGuid>04b6e2cb-a248-47bb-8fdf-efc138286d91</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu']/div/ul/li[3]/div/div/a[2]</value>
-      <webElementGuid>629a226c-8a1b-4406-a4ac-e314f3576569</webElementGuid>
+      <webElementGuid>dee60483-85f5-4b67-80bd-5b3d4e4d302a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Integrations')]</value>
-      <webElementGuid>9b7c29bf-a4fa-4321-a528-c25a1aba96bf</webElementGuid>
+      <webElementGuid>004e0513-5930-4127-9606-8b931724e72e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::a[2]</value>
-      <webElementGuid>bb3df3eb-2829-4713-a1fa-57563f3de07f</webElementGuid>
+      <webElementGuid>6956ab21-e7b6-4ad3-af32-c1f4d1de5163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::a[2]</value>
-      <webElementGuid>501e938d-f30e-4041-b4ab-8361ffeb0940</webElementGuid>
+      <webElementGuid>db60902f-c7f3-4cda-990d-a74717e8d5a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customizations'])[1]/preceding::a[1]</value>
-      <webElementGuid>848857db-fd0e-46e1-837e-bb15552e60bd</webElementGuid>
+      <webElementGuid>13370d05-c774-473a-9b50-1591fddb40e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Technology'])[1]/preceding::a[2]</value>
-      <webElementGuid>a98af8ca-00a2-40ef-9327-93d1ae427451</webElementGuid>
+      <webElementGuid>56bbbebd-4cc1-49c8-a408-266c6b10c3e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Integrations']/parent::*</value>
-      <webElementGuid>17974266-a7b1-4315-8a8b-dfb5ecff7e11</webElementGuid>
+      <webElementGuid>259c1fa2-f2aa-4115-8ddd-6cc0de643e6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://phptravels.com/integrations')]</value>
-      <webElementGuid>19bc7646-3501-4ee1-a4d8-17970afaffca</webElementGuid>
+      <webElementGuid>886db2ea-8bb4-4367-bfbf-a504460e4540</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>ed5833fe-f569-4b4c-84f8-d11dbc48ced4</webElementGuid>
+      <webElementGuid>9a17c904-979a-4ee0-9aee-ba9c546fcc72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://phptravels.com/integrations' and (text() = 'Integrations' or . = 'Integrations')]</value>
-      <webElementGuid>dd822b48-1d2e-4141-9b9a-3c559d524e34</webElementGuid>
+      <webElementGuid>8db4d5bb-69d6-4219-b542-5c69f8a737e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

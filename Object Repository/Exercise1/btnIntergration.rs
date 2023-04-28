@@ -6,11 +6,11 @@
    <elementGuidId>396ae373-c0c4-4862-a17d-d63dfcc56815</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;menu&quot;]/div[1]/ul/li[3]/div/div/a[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content']/div[2]/div/div[5]/a/img</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>492a1c96-1c75-4577-8998-64224adf97b6</webElementGuid>
+      <webElementGuid>9250cfc5-9ce1-4b21-a244-cf4141204d87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://phptravels.com/assets/data/integrations_img/agoda.png</value>
-      <webElementGuid>313da3df-3fb9-4a64-a94f-3778e73f1ac5</webElementGuid>
+      <webElementGuid>06613cd4-1e1b-4701-8e0b-dbe575f2d9bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w100</value>
-      <webElementGuid>1f5cbdb0-6733-4689-87e9-1d88241b58fb</webElementGuid>
+      <webElementGuid>6727df73-ee8a-44fb-b72e-69494249393e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Agoda</value>
-      <webElementGuid>efaca3ed-b8e9-4424-b442-bd41e1d476dd</webElementGuid>
+      <webElementGuid>4a4ad0df-b0ac-474c-80a6-8d394b770fc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;container mt3 mb2&quot;]/div[@class=&quot;row jcc integration g-3&quot;]/div[@class=&quot;col-md-1 col-3 mb1&quot;]/a[@class=&quot;waves-effect&quot;]/img[@class=&quot;w100&quot;]</value>
-      <webElementGuid>d8c4b634-c769-4a35-932c-d62257320157</webElementGuid>
+      <webElementGuid>c04544fc-1d16-45c1-9014-86a280c33943</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div[2]/div/div[5]/a/img</value>
-      <webElementGuid>768eae4d-cdc7-406c-b102-61f7665caa38</webElementGuid>
+      <webElementGuid>8b7ca087-b6e1-46fd-ba62-1a3ee2058604</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Agoda']</value>
-      <webElementGuid>5c3d2537-1247-46be-8171-1babe15b4815</webElementGuid>
+      <webElementGuid>8f2b0be7-2935-430f-884d-887f759e182e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/a/img</value>
-      <webElementGuid>0c1b774d-b790-42df-afd2-6a4713a44f99</webElementGuid>
+      <webElementGuid>92a812b5-b8ba-4fb1-8f74-77f483017281</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://phptravels.com/assets/data/integrations_img/agoda.png' and @alt = 'Agoda']</value>
-      <webElementGuid>8577c9bc-9576-4d8b-a838-b19fb51ccc5a</webElementGuid>
+      <webElementGuid>e929ac7c-8dab-4765-9f03-e4820d110e6e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

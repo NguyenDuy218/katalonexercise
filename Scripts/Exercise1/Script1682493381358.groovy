@@ -18,14 +18,14 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://phptravels.com/')
+
 WebUI.maximizeWindow()
 
-
 'Click button Products\r\n\r\n'
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Exercise1/btnProduct'))
 
 'Click button Intergration\r\n'
-WebUI.click(findTestObject('Exercise1/btnProduct'))
+WebUI.click(findTestObject('Exercise1/btnIntergration'))
 
 'Click button Agoda\r\n'
 WebUI.click(findTestObject('Exercise1/btnAgoda'))
