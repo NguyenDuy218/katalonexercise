@@ -38,12 +38,14 @@ CustomKeywords.'customkeywords.UploadFileKeyword.uploadFile'('C:\\Users\\duynpd\
 
 'Click Send message'
 WebUI.waitForElementClickable(findTestObject('Exercise3/btnSendChat'), 3000)
+
 WebUI.click(findTestObject('Exercise3/btnSendChat'))
 
-'Verify File is uploaded'
+'Verify File is uploaded update'
 String fileName = WebUI.getText(findTestObject('Exercise4/lastFileUpload'))
+
 Assert.assertTrue(fileName.contains('fileUpload'))
 
-'Close Browser'
+'Close Browser update 2'
 WebUI.closeBrowser()
 
