@@ -26,16 +26,16 @@ WebUI.waitForPageLoad(3)
 int RandomValue = new Random().nextInt()
 
 'Input First Name'
-WebUI.setText(findTestObject('Exercise2/inputFirstName'), 'First Name' + RandomValue.toString())
+WebUI.setText(findTestObject('Exercise2/txtFirstName'), 'First Name' + RandomValue.toString())
 
 'Input Last Name'
-WebUI.setText(findTestObject('Exercise2/inputLastName'), 'Last Name' + RandomValue.toString())
+WebUI.setText(findTestObject('Exercise2/txtLastName'), 'Last Name' + RandomValue.toString())
 
 'Input Business Name'
-WebUI.setText(findTestObject('Exercise2/inputBusinessName'), 'Business Name' + RandomValue.toString())
+WebUI.setText(findTestObject('Exercise2/txtBusinessName'), 'Business Name' + RandomValue.toString())
 
 'Input email'
-WebUI.setText(findTestObject('Exercise2/inputEmail'), ('duy.npd+' + RandomValue.toString()) + '@neo-lab.vn')
+WebUI.setText(findTestObject('Exercise2/txtEmail'), ('duy.npd+' + RandomValue.toString()) + '@neo-lab.vn')
 
 'Get number 1'
 number1 = WebUI.getText(findTestObject('Exercise2/number1'))
@@ -47,10 +47,10 @@ number2 = WebUI.getText(findTestObject('Exercise2/number2'))
 int resultMath = Integer.parseInt(number1) + Integer.parseInt(number2)
 
 'Input the result into textField'
-WebUI.setText(findTestObject('Exercise2/inputMathResult'), resultMath.toString())
+WebUI.setText(findTestObject('Exercise2/txtMathResult'), resultMath.toString())
 
 'Click button Submit'
-WebUI.click(findTestObject('Exercise2/button_Submit'))
+WebUI.click(findTestObject('Exercise2/btnSubmit'))
 
 WebUI.waitForPageLoad(3)
 

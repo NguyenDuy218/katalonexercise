@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Submit</name>
+   <name>btnSubmit</name>
    <tag></tag>
    <elementGuidId>bc833c99-4d53-4ed7-b9c5-e5a9270bce1a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#demo</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='demo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#demo</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

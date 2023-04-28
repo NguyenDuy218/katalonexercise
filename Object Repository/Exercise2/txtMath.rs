@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>getMath</name>
+   <name>txtMath</name>
    <tag></tag>
    <elementGuidId>52453f99-32a4-4cea-b2ff-16a4fbb3a6ee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h2.cw.mw100</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@id=&quot;content&quot;]/section[1]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div[2]/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.cw.mw100</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

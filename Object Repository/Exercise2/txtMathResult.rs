@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputMathResult</name>
+   <name>txtMathResult</name>
    <tag></tag>
    <elementGuidId>33a72067-e4f4-4c42-92cc-2aa78d874fa9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#number</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='number']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#number</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
