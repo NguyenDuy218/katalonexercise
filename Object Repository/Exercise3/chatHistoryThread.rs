@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chatHistoryThread</name>
+   <tag></tag>
+   <elementGuidId>a1137dd2-ae30-439f-8dc7-1c4d3f54c206</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ThreadHistoryFetcher__ScrollToWrapper-mpap2q-1.kYFmaz.messages-scroll-container-utv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'PrimaryMessageContentSection__PrimaryMessageContentSectionWrapper')]//div//div//div//div//div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c76a3684-c912-45ac-bf85-aa84c689a09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ThreadHistoryFetcher__ScrollToWrapper-mpap2q-1 kYFmaz messages-scroll-container-utv</value>
+      <webElementGuid>397a8518-ab07-4512-be65-271b2d29d515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Got any questions? I'm happy to help.</value>
+      <webElementGuid>0dcbaa4b-fb94-4b41-ab85-6d731acbe841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;current-view-component&quot;)/div[@class=&quot;VisitorWidgetStyleWrapper__WidgetStyleWrapper-q9otpi-0 ikLZth&quot;]/div[@class=&quot;VisitorWidgetStyleWrapper__WidgetContentStyleWrapper-q9otpi-1 gaTWey chat-widget&quot;]/div[@class=&quot;VisitorWidget__WidgetBodyDiv-sc-1casxq4-0 BJKvU&quot;]/div[@class=&quot;UnifiedThreadViewWrapperWithDragUpload__UnifiedThreadViewWrapper-s4ctvh-0 ftjQdo&quot;]/div[@class=&quot;ThreadHistoryFetcher__ScrollToWrapper-mpap2q-1 kYFmaz messages-scroll-container-utv&quot;]</value>
+      <webElementGuid>542c66f9-5327-4e23-aab2-dedc7f966ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Exercise3/iframe_concat(id(, , hubspot-conversations-iframe, , ))_hubspot-conversations-iframe (1)</value>
+      <webElementGuid>ea4cf441-d7a5-4a83-85fb-7c36cb4f3a1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='current-view-component']/div/div/div/div/div</value>
+      <webElementGuid>ce006e79-63c1-44de-bdcd-81394d9c6b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We typically reply in a few minutes'])[1]/following::div[4]</value>
+      <webElementGuid>5b0a6ea3-300d-413f-a142-abb17e44a59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PHPTRAVELS'])[1]/following::div[5]</value>
+      <webElementGuid>09c6575c-843b-49dd-998d-7d62fe732a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div</value>
+      <webElementGuid>dd85b22a-5575-46a8-96cb-b81d9cb60a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Got any questions? I&quot; , &quot;'&quot; , &quot;m happy to help.&quot;) or . = concat(&quot;Got any questions? I&quot; , &quot;'&quot; , &quot;m happy to help.&quot;))]</value>
+      <webElementGuid>b64bf333-e16d-4d21-b035-65b202fa7f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>getMath</name>
+   <tag></tag>
+   <elementGuidId>52453f99-32a4-4cea-b2ff-16a4fbb3a6ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.cw.mw100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content&quot;]/section[1]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div[2]/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>561bdda6-6bd4-4b88-bfda-496e7a5ddaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cw mw100</value>
+      <webElementGuid>b56480c8-5648-4dc9-a8c9-045c65d6149d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5 + 8 = </value>
+      <webElementGuid>ebc49b4c-cb25-4120-87b8-c733bb7ae4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/section[@class=&quot;grey-box mt1&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;demo_form bgb br8 p3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 form-group&quot;]/div[1]/div[@class=&quot;form&quot;]/div[@class=&quot;row fcr&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;df&quot;]/h2[@class=&quot;cw mw100&quot;]</value>
+      <webElementGuid>43939ccb-5b86-426f-b2f7-5a2c7e38b215</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/section/div/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div/h2</value>
+      <webElementGuid>b2b6e628-f037-4d58-946f-37c0a0540e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::h2[1]</value>
+      <webElementGuid>ab690d5a-dd14-4307-92a2-c4a76192fc94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instant Demo'])[1]/following::h2[1]</value>
+      <webElementGuid>a103a101-b4e4-479e-ab2f-68c5147f5078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you!'])[1]/preceding::h2[1]</value>
+      <webElementGuid>25d0f532-0a82-41d7-90da-b391647e9dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F A Q'])[1]/preceding::h2[2]</value>
+      <webElementGuid>c627a27d-ecfe-40dd-8cad-1d5ca91a5024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+']/parent::*</value>
+      <webElementGuid>5bb80c23-4a92-4274-a3dc-14e09dca3a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h2</value>
+      <webElementGuid>616ca23f-a1e3-4686-88fb-83a2ca2d3e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '5 + 8 = ' or . = '5 + 8 = ')]</value>
+      <webElementGuid>ae6ff4ed-83e8-4d24-861f-7dddd51e3a24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
