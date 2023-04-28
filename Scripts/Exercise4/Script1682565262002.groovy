@@ -41,11 +41,11 @@ WebUI.waitForElementClickable(findTestObject('Exercise3/btnSendChat'), 3000)
 
 WebUI.click(findTestObject('Exercise3/btnSendChat'))
 
-'Verify File is uploaded update'
+'Verify File is uploaded'
 String fileName = WebUI.getText(findTestObject('Exercise4/lastFileUpload'))
 
 Assert.assertTrue(fileName.contains('fileUpload'))
 
-'Close Browser update 2'
+'Close Browser'
 WebUI.closeBrowser()
 
